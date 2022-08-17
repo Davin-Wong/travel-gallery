@@ -16,7 +16,7 @@ const DUMMY_PLACES = [
   },
   {
     id: 'p2',
-    title: 'Bruce Lee Statue',
+    title: 'Bruce Lee Statue HK',
     description: 'A statue to commemorate Bruce Lee',
     imageUrl: 'https://bkpk.me/wp-content/uploads/2013/02/DSC_0800.jpg',
     address: 'Avenue of Stars, Tsim Sha Tsui, Hong Kong',
